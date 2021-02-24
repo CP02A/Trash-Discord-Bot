@@ -1,0 +1,15 @@
+{
+  "name": "trash",
+  "version": "1.0.0",
+  "description": "The trash bot",
+  "main": "trash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CP02A",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mongodb": "^3.4.1"
+  }
+}
